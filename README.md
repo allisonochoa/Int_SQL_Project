@@ -1,5 +1,5 @@
 # Intermediate SQL - Sales Analysis
-<img src="/images/P_B.jpg" alt="picture background" style="width: 50%; height: auto;">
+<img src="/images/P_B.jpg" alt="picture background" style="width: 75%; height: auto;">
 
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
@@ -26,7 +26,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization**:
 
-![p1](/images/P_1.png)
+<img src="/images/P_1.png" alt="p1" style="width: 75%; height: auto;">
 
 **📊 Key Findings**:
 
