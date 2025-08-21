@@ -1,4 +1,5 @@
 # Intermediate SQL - Sales Analysis
+![picture background](/images/P_B.jpg)
 
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
